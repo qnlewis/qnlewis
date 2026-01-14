@@ -36,7 +36,6 @@ Here are a few exercises I've built to practice my skills:
 
 ---
 
-```### 📫 Get in Touch
-```* [LinkedIn](https://www.linkedin.com/) * [Email](qnlewis93@gmail.com)
+### 📫 Get in Touch
+``* [LinkedIn](https://www.linkedin.com/) * [Email](qnlewis93@gmail.com)``
 
-***
