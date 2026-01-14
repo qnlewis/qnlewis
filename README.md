@@ -35,8 +35,9 @@ Here are a few exercises I've built to practice my skills:
 * **[Java Algorithms](https://github.com/qnlewis/java-algorithms-library)** - A collection of common computer science algorithms I built to understand the language syntax.
 
 ---
-
+``
 ### 📫 Get in Touch
 * [LinkedIn](https://www.linkedin.com/) * [Email](qnlewis93@gmail.com)
 
 ***
+``
