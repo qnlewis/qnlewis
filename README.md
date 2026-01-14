@@ -36,18 +36,7 @@ Here are a few exercises I've built to practice my skills:
 
 ---
 
-### 📫 Get in Touch
-* [LinkedIn](https://www.linkedin.com/) * [Email](mailto:qnlewis93@gmail.com) ```
+``### 📫 Get in Touch``
+``* [LinkedIn](https://www.linkedin.com/) * [Email](qnlewis93@gmail.com) ``
 
 ***
-
-### ⚠️ Important Reminder
-For those links to work, you need to finish creating the other 5 repositories we discussed!
-
-1.  `car-inventory-system` (Upload the **CarsLeonardBotha** files)
-2.  `gilded-rose-refactoring` (Upload the **gilded-rose-main** files)
-3.  `csharp-snake-console` (Upload the **Snake.IO_WTF** files)
-4.  `java-person-profile` (Upload the **oop-ex-person1-main** files)
-5.  `java-algorithms-library` (Upload the **jav-000-fun-main** files)
-
-Once those are up, your portfolio is **100% complete**. You have done a lot of work today—this is going to look great!
